@@ -12,7 +12,7 @@ Welcome to the Weather Website project! This simple web application provides use
 
 ## Live Demo
 
-You can access the live website by clicking **[here]**(https://ritzykings.github.io/Weather_Website/).
+You can access the live website by clicking [here](https://ritzykings.github.io/Weather_Website/).
 
 ## Project Structure
 
