@@ -12,7 +12,7 @@ Welcome to the Weather Website project! This simple web application provides use
 
 ## Live Demo
 
-You can access the live website by clicking [here](https://your-website-url.com).
+You can access the live website by clicking **[here]**(https://ritzykings.github.io/Weather_Website/).
 
 ## Project Structure
 
@@ -27,7 +27,7 @@ The project consists of the following files:
 
 1. Clone this repository to your local machine using `git clone`.
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/RitzyKingS/Weather_Website.git
    ```
 2. Open the `index.html` file in your web browser.
 3. Enter the location for which you want to check the weather.
