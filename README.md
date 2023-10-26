@@ -5,6 +5,12 @@
 
 Welcome to the Weather Website project! This simple web application provides users with current weather information for a specific location. It's built using HTML, CSS, and JavaScript, making it easy to understand and modify.
 
+## Website
+
+<h2> Website: 
+<a href="https://ritzykings.github.io/Weather_Website/">Visit Now🚀</a>
+</h2> .
+
 ## Features
 
 - **Current Weather**: Get real-time weather information for a location.
